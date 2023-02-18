@@ -1,0 +1,6 @@
+февр. 17, 2023 12:04:09 AM Ex_04_Calc log_result
+INFO: 6.0 3.0 = 18.0
+
+февр. 17, 2023 12:08:11 AM Ex_04_Calc log_result
+INFO: 24.0 / 6.0 = 4.0
+
